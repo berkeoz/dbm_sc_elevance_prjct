@@ -1,5 +1,47 @@
 {
-  "Projects": [],
+  "Projects": [
+    {
+      "GlobalData": {
+        "ProjectId": "63027ac8-00c2-4251-91a0-73e7bab559a3",
+        "ProjectName": "Elevance_PRJCT1",
+        "DBTypeName": "SQL Server",
+        "Environments": [
+          {
+            "EnvironmentId": "c7a8043e-de84-49c2-a18d-603da3333d2a",
+            "EnvironmentName": "Dev_Env_1",
+            "EnvironmentType": "DEV",
+            "Databases": []
+          }
+        ],
+        "SourceControlPathType": 0,
+        "Configuration": {
+          "BuildMigrationScriptAutomatically": true,
+          "DBConfiguration": {
+            "MetadataConfiguration": {},
+            "ValidationConfiguration": {},
+            "BuildConfiguration": {}
+          },
+          "NumberOfRevisionsInViewHistory": 10,
+          "NumberOfTagsInBuildOptions": 10,
+          "NumberOfDaysBuildByTaskIsRelevant": 30,
+          "PreventCommitObjectWithConflict": false,
+          "SaveObjectScopeAtProjectLevel": null,
+          "UseCache": null,
+          "IgnoreTextualChangesBasedOnMetadata": true
+        },
+        "ProjectArchitecture": 1,
+        "LocalDirectory": ""
+      },
+      "UserData": [
+        {
+          "UserName": "berkeoz",
+          "DatabasesData": []
+        }
+      ],
+      "DatabasesStaticDataObjects": null,
+      "DatabasesScopeObjects": null
+    }
+  ],
   "GlobalConfigurations": null,
   "RepositoryConfiguration": null,
   "GeneralConfigurations": {
