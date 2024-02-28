@@ -10,19 +10,7 @@
             "EnvironmentId": "c7a8043e-de84-49c2-a18d-603da3333d2a",
             "EnvironmentName": "Dev_Env_1",
             "EnvironmentType": "DEV",
-            "Databases": [
-              {
-                "DatabaseId": "a601e551-11a0-48ab-81f6-90928723c58e",
-                "DatabaseAliasName": "FUSIMSTR",
-                "DatabaseConnectionDetails": null,
-                "RepositoryDetails": {
-                  "$type": "DOP.SourceControl.ExternalSourceControl.Git.Models.GitRepositoryDetails, DOP.SourceControl.ExternalSourceControl.Git",
-                  "RemoteRepositoryURL": "https://github.com/berkeoz/dbm_sc_elevance_db1.git",
-                  "RemoteBranchName": "main",
-                  "LocalBranchName": "main"
-                }
-              }
-            ]
+            "Databases": []
           }
         ],
         "SourceControlPathType": 0,
@@ -47,18 +35,7 @@
       "UserData": [
         {
           "UserName": "berkeoz",
-          "DatabasesData": [
-            {
-              "DatabaseId": "a601e551-11a0-48ab-81f6-90928723c58e",
-              "DatabaseAliasName": "FUSIMSTR",
-              "DatabaseConnectionDetails": null,
-              "BranchesDatabaseConnectionDetails": null,
-              "RepositoryCredentials": {
-                "UserName": "berkeoz",
-                "Password": "OwpWlkWmltynchlAGzUVJhagkl4gbzNshplobMMz7PjSNDNYC+pPI+/W6mO5R+Lj"
-              }
-            }
-          ]
+          "DatabasesData": []
         },
         {
           "UserName": "#ALL",
